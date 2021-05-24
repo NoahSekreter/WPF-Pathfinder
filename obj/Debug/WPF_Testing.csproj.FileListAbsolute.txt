@@ -1,0 +1,15 @@
+C:\Users\nsekr\source\repos\WBF_Testing\bin\Debug\WBF_Testing.exe.config
+C:\Users\nsekr\source\repos\WBF_Testing\bin\Debug\WBF_Testing.exe
+C:\Users\nsekr\source\repos\WBF_Testing\bin\Debug\WBF_Testing.pdb
+C:\Users\nsekr\source\repos\WBF_Testing\obj\Debug\MainWindow.g.cs
+C:\Users\nsekr\source\repos\WBF_Testing\obj\Debug\App.g.cs
+C:\Users\nsekr\source\repos\WBF_Testing\obj\Debug\WBF_Testing_MarkupCompile.cache
+C:\Users\nsekr\source\repos\WBF_Testing\obj\Debug\WBF_Testing_MarkupCompile.lref
+C:\Users\nsekr\source\repos\WBF_Testing\obj\Debug\MainWindow.baml
+C:\Users\nsekr\source\repos\WBF_Testing\obj\Debug\WBF_Testing.g.resources
+C:\Users\nsekr\source\repos\WBF_Testing\obj\Debug\WBF_Testing.Properties.Resources.resources
+C:\Users\nsekr\source\repos\WBF_Testing\obj\Debug\WPF_Testing.csproj.GenerateResource.cache
+C:\Users\nsekr\source\repos\WBF_Testing\obj\Debug\WPF_Testing.csproj.CoreCompileInputs.cache
+C:\Users\nsekr\source\repos\WBF_Testing\obj\Debug\WBF_Testing.exe
+C:\Users\nsekr\source\repos\WBF_Testing\obj\Debug\WBF_Testing.pdb
+C:\Users\nsekr\source\repos\WBF_Testing\obj\Debug\WPF_Testing.csprojAssemblyReference.cache
